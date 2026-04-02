@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "The Lizard Dream",
+  "base_artist": "Lenny Ibizarre",
+  "createdAt": "2026-04-02T14:44:20.279566Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Wizard and the Lizard",
+      "artist": "Gorky’s Zygotic Mynci",
+      "has_synced": false,
+      "path": "select/01_The_Wizard_and_the_Lizard_Gorky’s_Zygotic_Mynci.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Celebration Of The Lizard",
+      "artist": "The Doors",
+      "has_synced": false,
+      "path": "select/02_Celebration_Of_The_Lizard_The_Doors.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Celebration Of The Lizard (An Experiment\u0000Work In Progress) (bonus)",
+      "artist": "The Doors",
+      "has_synced": false,
+      "path": "select/03_Celebration_Of_The_Lizard_(An_Experiment\u0000Work_In_Progress)_(bonus)_The_Doors.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Celebration of the Lizard (Live At the Aquarius) [1st Show]",
+      "artist": "The Doors",
+      "has_synced": false,
+      "path": "select/04_The_Celebration_of_the_Lizard_(Live_At_the_Aquarius)_[1st_Show]_The_Doors.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Lizard Suite (Live in Chicago 28 June 2017)",
+      "artist": "King Crimson",
+      "has_synced": false,
+      "path": "select/05_The_Lizard_Suite_(Live_in_Chicago_28_June_2017)_King_Crimson.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Celebration Of The Lizard (An Experiment - Work In Progress)",
+      "artist": "The Doors",
+      "has_synced": false,
+      "path": "select/06_Celebration_Of_The_Lizard_(An_Experiment_-_Work_In_Progress)_The_Doors.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lick The Lizard",
+      "artist": "Rusko feat. Reso",
+      "has_synced": false,
+      "path": "select/07_Lick_The_Lizard_Rusko_feat._Reso.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lick The Lizard",
+      "artist": "Rusko & Reso",
+      "has_synced": false,
+      "path": "select/08_Lick_The_Lizard_Rusko_&_Reso.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Lizard",
+      "artist": "Saigon Kick",
+      "has_synced": true,
+      "path": "select/09_The_Lizard_Saigon_Kick.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Celebration Of The Lizard (An Experiment-Work In Progress) [#]",
+      "artist": "The Doors",
+      "has_synced": false,
+      "path": "select/10_Celebration_Of_The_Lizard_(An_Experiment-Work_In_Progress)_[_]_The_Doors.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Celebration of the Lizard (an experiment",
+      "artist": "The Doors",
+      "has_synced": false,
+      "path": "select/11_Celebration_of_the_Lizard_(an_experiment_The_Doors.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Story of the Lizard and the Sock",
+      "artist": "Crywank",
+      "has_synced": true,
+      "path": "select/12_The_Story_of_the_Lizard_and_the_Sock_Crywank.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Story of the Lizard and the Sock",
+      "artist": "Crywank",
+      "has_synced": true,
+      "path": "select/13_Story_of_the_Lizard_and_the_Sock_Crywank.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Celebration Of The Lizard - Live At The Aquarius - The First Performance",
+      "artist": "The Doors",
+      "has_synced": false,
+      "path": "select/14_The_Celebration_Of_The_Lizard_-_Live_At_The_Aquarius_-_The_First_Performance_The_Doors.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Lizard",
+      "artist": "Enchant",
+      "has_synced": false,
+      "path": "select/15_The_Lizard_Enchant.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Celebration of the Lizard (an experiment/work in progress)",
+      "artist": "The Doors",
+      "has_synced": false,
+      "path": "select/16_Celebration_of_the_Lizard_(an_experiment_work_in_progress)_The_Doors.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Lizard Lady",
+      "artist": "The Residents",
+      "has_synced": false,
+      "path": "select/17_The_Lizard_Lady_The_Residents.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Feel Loop (Lizard Dream)",
+      "artist": "Gaz Coombes",
+      "has_synced": false,
+      "path": "select/18_Feel_Loop_(Lizard_Dream)_Gaz_Coombes.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Feel Loop (Lizard Dream)",
+      "artist": "Gaz Coombes",
+      "has_synced": false,
+      "path": "select/19_Feel_Loop_(Lizard_Dream)_Gaz_Coombes.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Feel Loop (Lizard Dream)",
+      "artist": "Coombes, Gaz",
+      "has_synced": false,
+      "path": "select/20_Feel_Loop_(Lizard_Dream)_Coombes,_Gaz.txt"
+    }
+  ]
+}
